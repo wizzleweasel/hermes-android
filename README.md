@@ -9,8 +9,6 @@
 [![Version](https://img.shields.io/badge/version-v0.10.0-4ecdc4.svg?style=for-the-badge)](https://github.com/NousResearch/hermes-agent)
 [![Stars](https://img.shields.io/github/stars/AbuZar-Ansarii/Hermes-Agent-On-Android?style=for-the-badge&color=ffd93d)](https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android)
 
-<img width="1254" height="1254" alt="hermes on phone" src="https://github.com/user-attachments/assets/aad4cce5-aba6-498e-9179-30b401fa4ccb" />
-
 **Transform your Android device into a powerful, learning AI assistant**
 
 [Installation](#-one-line-installation)
