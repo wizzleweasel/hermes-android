@@ -66,8 +66,8 @@ chmod +x hermes_install.sh
 
 | Requirement | Minimum | Recommended |
 |:------------|:-------:|-------------:|
-| **Android Version** | 11  |  13 or 14 |
-| **Storage Space** | 2GB | 4GB+ |
+| **Android Version** | 11  |  13,14 or 15 |
+| **Storage Space** | 3GB | 5GB+ |
 | **RAM** | 2GB | 4GB+ |
 | **Internet** | Required | Fast connection |
 | **Termux** | Latest | Latest from F-Droid |
