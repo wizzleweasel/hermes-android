@@ -25,7 +25,7 @@ pkg update -y -o Dpkg::Options::--force-confnew 2>/dev/null || true
 # CRITICAL: Force Python 3.12 (not 3.13)
 echo -e "${GRN}🐍 Installing Python 3.12 (3.13 causes psutil issues)...${RST}"
 pkg uninstall python -y 2>/dev/null || true
-pkg install -y python=3.12.8
+pkg install -y python=3.12.0
 
 # Hold Python to prevent accidental upgrade
 pkg hold python
