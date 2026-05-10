@@ -24,7 +24,6 @@ pkg update -y -o Dpkg::Options::="--force-confnew" 2>/dev/null || pkg update -y
 # Install Python 3.13 (current version)
 echo -e "${GRN}🐍 Installing Python...${RST}"
 pkg install -y python
-pkg install python-psutil -y
 
 # PATCH: Fix psutil compatibility with Python 3.13 on Termux
 # This removes the unsupported compiler flag -fno-openmp-implicit-rpath
