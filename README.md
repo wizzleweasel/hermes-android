@@ -63,6 +63,14 @@ chmod +x hermes_install.sh
 ```
 
 ## 🤖 Start Agent
+fresh start
+```
+cd
+proot-distro login ubuntu
+cd hermes-agent
+source venv/bin/activate
+hermes
+```
 Run this for setting it up
 ```
 hermes setup
