@@ -28,7 +28,7 @@ pkg update && apt upgrade -y
 
 echo -e "${CYN} Installing Dependencies......${RST}"
 
-pkg install python python-pip git curl build-essential-glibc nodejs-lts -y
+pkg install python python-pip git curl nodejs-lts -y
 
 git clone https://github.com/NousResearch/hermes-agent.git
 cd hermes-agent
