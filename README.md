@@ -45,7 +45,7 @@ graph LR
 ### **Copy and paste this command in Termux:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/AbuZar-Ansarii/Hermes-Agent-On-Android/main/hermes_install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/AbuZar-Ansarii/Hermes-Agent-On-Android/main/nous_agent.sh | bash
 ```
 
 ## 🛠️ Manual Installation (Recommended)
@@ -56,24 +56,29 @@ git clone https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android.git
 cd Hermes-Agent-On-Android
 
 # 2. Make the script executable
-chmod +x hermes_install.sh
+chmod +x agent_install.sh
 
 # 3. Run the installer
-./hermes_install.sh
+./agent_install.sh
 ```
 
 ## 🤖 Start Agent
-fresh start
+Run these commands one by one after installling
 ```
 cd
 proot-distro login ubuntu
+```
+```
 cd hermes-agent
 source venv/bin/activate
-hermes
 ```
 Run this for setting it up
 ```
 hermes setup
+```
+Run this for using
+```
+hermes
 ```
 
 ## ⚙️ System Requirements
