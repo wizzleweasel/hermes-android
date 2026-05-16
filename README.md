@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-9146ff.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Termux](https://img.shields.io/badge/Termux-Android-ff6b6b.svg?style=for-the-badge)](https://termux.com/)
 [![Version](https://img.shields.io/badge/version-v0.10.0-4ecdc4.svg?style=for-the-badge)](https://github.com/NousResearch/hermes-agent)
-[![Stars](https://img.shields.io/github/stars/wizzleweasel/hermes-android?style=for-the-badge&color=ffd93d)](https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android)
+[![Stars](https://img.shields.io/github/stars/wizzleweasel/hermes-android?style=for-the-badge&color=ffd93d)](https://github.com/wizzleweasel/hermes-android)
 
 **Transform your Android device into a powerful, learning AI assistant**
 </div>
